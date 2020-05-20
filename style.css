@@ -18,5 +18,19 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+
+}
+a{
+    font-weight: 500;
+    text-decoration: none;
+    color:#fff; 
+}
+#quote-box{
+    border-radius: 3px;
+    position: relative;
+    width: 450px;
+    padding: 40px 50px;
+    display: table;
+    background-color: #fff;  
     
 }
